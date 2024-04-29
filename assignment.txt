@@ -1,0 +1,7 @@
+rollno   name
+paper1
+paper2
+paper3
+total    percentage
+
+%% - to print percentage
